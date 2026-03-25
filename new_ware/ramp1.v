@@ -1,4 +1,4 @@
-module ramp1(
+module ramp2(
     input clk,
     input areset,
     output reg [3:0] q);
